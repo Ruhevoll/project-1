@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ballot_box">
+    <file>david.JPG</file>
+    <file>duck.JPG</file>
+    <file>redguy.JPG</file>
+    <file>ballot.jpg</file>
+  </qresource>
+</RCC>
